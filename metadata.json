@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EcoSwap - AI-Powered Community Swapping",
+  "description": "A sustainable peer-to-peer swapping platform for books and household items, using Gemini AI to perfectly match your unwanted goods with someone who needs them.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
